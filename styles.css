@@ -1,0 +1,27 @@
+.whatsapp-translate-btn {
+    background-color: #25D366;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 12px;
+  }
+  
+  .translated-text {
+    font-style: italic;
+    color: #666;
+    margin-top: 5px;
+  }
+
+  .whatsapp-translate-error {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    background-color: #ff4444;
+    color: white;
+    padding: 10px;
+    border-radius: 4px;
+    z-index: 9999;
+  }
